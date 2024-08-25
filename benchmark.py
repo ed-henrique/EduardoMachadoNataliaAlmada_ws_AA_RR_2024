@@ -30,7 +30,7 @@ Usage mode:
 3) all outputs are save in the file called execution_log.txt
 """
 
-BINARY_PROGRAM = ["quicksort"]
+BINARY_PROGRAM = ["mergesort"]
 INPUTS_DIR = "inputs"
 TIMES_RUN = 13
 PATH_FILES_INPUT_LIST = []
@@ -48,7 +48,7 @@ def run_code():
     file_handler.setFormatter(csvFormatter)
     file_logger.addHandler(file_handler)
 
-    file_logger.debug(f"Algoritmo;Entrada;Tempo")
+    file_logger.debug(f"Algorithm;Input;Time")
 
     for input in PATH_FILES_INPUT_LIST:
 
@@ -56,7 +56,7 @@ def run_code():
             stdout_logger.error(f"Input file: {input} not found")            
         else:
             for binary in BINARY_PROGRAM:
-                cmd = shlex.split("./" + binary + " " + input[:-4])
+                cmd = shlex.split("./" + binary + " " + input)
 
                 times = []
 
@@ -80,7 +80,7 @@ def run_code():
 
 def main():
     list_files_input()
-    PATH_FILES_INPUT_LIST.sort()
+    PATH_FILES_INPUT_LIST.sort(reverse=True)
     run_code()
 
 if __name__ == "__main__":
