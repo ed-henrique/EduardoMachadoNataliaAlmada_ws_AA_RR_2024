@@ -7,7 +7,7 @@
 
 ## Introdução
 
-A [apresentação](./AAQuicksortPresentation/apresentacao.pdf) do nosso grupo contempla o seguintes tópicos acerca do algoritmo `Quicksort`:
+A [apresentação](./AAQuicksortPresentation/AAQuickSort.pdf) do nosso grupo contempla o seguintes tópicos acerca do algoritmo `Quicksort`:
 
 - [Função de custo e complexidade](./AAQuicksortPresentation/QuickSort.pdf);
 - [Código da implementação em C](./quicksort.c);
