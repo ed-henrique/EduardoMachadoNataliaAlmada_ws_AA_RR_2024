@@ -24,13 +24,13 @@ A [apresentação](./AAQuicksortPresentation/apresentacao.pdf) do nosso grupo co
 ## Cálculos de Custo e Complexidade
 
 - [Quicksort](./AAQuicksortPresentation/QuickSort.pdf);
-    - Melhor Caso: $T(n) = ({\log_2 n} + 1)\cdot{n}$
-    - Caso Médio: $T(n) = ({\log_2 n} + 1)\cdot{n}$
-    - Pior Caso: $T(n) = \dfrac{n\cdot(n + 1)}{2}$
-- [Mergesort](./AAQuicksortPresentation/MergeSort.pdf).
-    - Melhor Caso: $T(n) = ({\log_2 n} + 1)\cdot{O(n)}$
-    - Caso Médio: $T(n) = ({\log_2 n} + 1)\cdot{O(n)}$
-    - Pior Caso: $T(n) = ({\log_2 n} + 1)\cdot{O(n)}$
+    - Melhor Caso: $T(n) = ({\log_2 n} + 1)\cdot{n}$;
+    - Caso Médio: $T(n) = ({\log_2 n} + 1)\cdot{n}$;
+    - Pior Caso: $T(n) = \dfrac{n\cdot(n + 1)}{2}$;
+- [Mergesort](./AAQuicksortPresentation/MergeSort.pdf);
+    - Melhor Caso: $T(n) = ({\log_2 n} + 1)\cdot{O(n)}$;
+    - Caso Médio: $T(n) = ({\log_2 n} + 1)\cdot{O(n)}$;
+    - Pior Caso: $T(n) = ({\log_2 n} + 1)\cdot{O(n)}$.
 
 ## Resultados
 
