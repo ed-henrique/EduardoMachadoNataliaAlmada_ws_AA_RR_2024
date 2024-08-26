@@ -20,6 +20,7 @@ A [apresentação](./AAQuicksortPresentation/AAQuickSort.pdf) do nosso grupo con
     - [Função de custo e complexidade](./AAQuicksortPresentation/MergeSort.pdf);
     - [Código da implementação em C](./mergesort.c);
     - [Gráfico de linha com o tempo de execução do algoritmo e análise da tendência de comportamento assintótico](#resultados).
+- [Vídeo de visualização dos algoritmos](./MergesortVSquicksort.mp4);
 
 ## Cálculos de Custo e Complexidade
 
@@ -41,7 +42,7 @@ Conseguimos observar que ao passo que o `Quicksort` possui uma complexidade de $
 ![Gráfico para Comparação](./assets/plot.png)
 
 </div>
-
+## Visualização pode ser conferida neste [video](./MergesortVSquicksort.mp4
 ## Objetivos
 
 - [x] Função de Custo e Complexidade;
