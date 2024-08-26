@@ -42,7 +42,11 @@ Conseguimos observar que ao passo que o `Quicksort` possui uma complexidade de $
 ![Gráfico para Comparação](./assets/plot.png)
 
 </div>
-## Visualização pode ser conferida neste [video](./MergesortVSquicksort.mp4
+
+## Comparação Visual dos Algoritmos
+
+Assista [esse vídeo](./MergesortVSquicksort.mp4).
+
 ## Objetivos
 
 - [x] Função de Custo e Complexidade;
