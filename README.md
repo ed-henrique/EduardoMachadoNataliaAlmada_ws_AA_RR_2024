@@ -45,7 +45,7 @@ Conseguimos observar que ao passo que o `Quicksort` possui uma complexidade de $
 
 ## Comparação Visual dos Algoritmos
 
-Assista [esse vídeo](./MergesortVSquicksort.mp4).
+Assista [esse vídeo](./AAQuicksortPresentation/MergesortVSquicksort.mp4).
 
 ## Objetivos
 
